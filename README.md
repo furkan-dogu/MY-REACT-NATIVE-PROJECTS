@@ -10,4 +10,4 @@
 |[Kurslarım](https://github.com/furkan-dogu/Kurslarim)|React, React-Native, Expo
 |[Restorant](https://github.com/furkan-dogu/Restaurant)|React, React-Native, Expo, Axios, React-Navigation
 |[Login](https://github.com/furkan-dogu/Login)|React, React-Native, Expo, Firebase, React-Navigation
-|[Sayı Oyunu](https://github.com/furkan-dogu/Sayi_Oyunu)|React, React-Native, Expo, expo-linear-gradient
+|[Sayı Oyunu](https://github.com/furkan-dogu/Sayi_Oyunu)|React, React-Native, Expo, Expo-Linear-Gradient
