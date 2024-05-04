@@ -6,8 +6,8 @@
 
 | Project Repo Link  | Libraries and Technologies I use      
 :------------------|------------------------------------
-|[Blog](https://github.com/furkan-dogu/Blog_Uygulamasi_Mobil)|React, React-Native, Expo, Axios, React-Navigation
-|[Kurslarım](https://github.com/furkan-dogu/Kurslarim)|React, React-Native, Expo
+|[Sayı Oyunu](https://github.com/furkan-dogu/Sayi_Oyunu)|React, React-Native, Expo, Expo-Linear-Gradient
 |[Restorant](https://github.com/furkan-dogu/Restaurant)|React, React-Native, Expo, Axios, React-Navigation
 |[Login](https://github.com/furkan-dogu/Login)|React, React-Native, Expo, Firebase, React-Navigation
-|[Sayı Oyunu](https://github.com/furkan-dogu/Sayi_Oyunu)|React, React-Native, Expo, Expo-Linear-Gradient
+|[Blog](https://github.com/furkan-dogu/Blog_Uygulamasi_Mobil)|React, React-Native, Expo, Axios, React-Navigation
+|[Kurslarım](https://github.com/furkan-dogu/Kurslarim)|React, React-Native, Expo
