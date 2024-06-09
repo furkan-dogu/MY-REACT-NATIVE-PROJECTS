@@ -6,6 +6,7 @@
 
 | Project Repo Link  | Libraries and Technologies I use      
 :------------------|------------------------------------
+|[Auth](https://github.com/furkan-dogu/Auth)|React, React-Native, React-Navigation, Axios, Async-Storage, Expo, React-Native-Screens, React-Native-Safe-Area-Context
 |[Sayı Oyunu](https://github.com/furkan-dogu/Sayi_Oyunu)|React, React-Native, Expo, Expo-Linear-Gradient
 |[Restorant](https://github.com/furkan-dogu/Restaurant)|React, React-Native, Expo, Axios, React-Navigation
 |[Login](https://github.com/furkan-dogu/Login)|React, React-Native, Expo, Firebase, React-Navigation
